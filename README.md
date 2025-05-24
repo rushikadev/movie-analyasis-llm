@@ -1,5 +1,7 @@
 # Fine tuned model to classify movie reviews 
 
+https://huggingface.co/rdev610/fine-tuned-distilbert-movie-sentiment
+
 This model classifies movie reviews as either positive or negative. 
 
 ### Model Description
